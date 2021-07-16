@@ -154,7 +154,7 @@ h3 {color: #009668;
 }
 
 .central {width: 900px;
-	margin-top:0px;
+	 margin-top:0px;
 	  margin-left: 200px;
 	  background:white;
 	 font-size:12pt;
@@ -162,12 +162,14 @@ padding-bottom: 10px;}
 
 a:hover {text-decoration: none;
 	 color: blue;
+	 font-weight: bold;
           }
 
 a {font-family: Arial,Verdana;
    text-decoration: none;
    color: black;
    font-size:12pt;
+   font-weight: bold;
    }
 
 body {text-align: justify;
