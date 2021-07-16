@@ -62,9 +62,10 @@ h3 {color: #009668;
 
 /* Menu left */
 
-#menuleft {height: 380px;
+#menuleft {height: 300px;
 	   width: 150px;	   
-	   background: #009788;	
+	   background: #009788;
+  	   padding-top: 0px;
 	   padding-right: 0px;
 	  margin-top: 0px;	  
 	  margin-right: 20px;
@@ -153,7 +154,7 @@ h3 {color: #009668;
 #menu .current_page_item a {
 }
 
-.central {width: 900px;
+.central {width: 700px;
 	 margin-top:0px;
 	  margin-left: 200px;
 	  background:white;

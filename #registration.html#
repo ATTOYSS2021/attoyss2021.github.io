@@ -1,0 +1,70 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HTML lang="en">
+  <link REL="SHORTCUT ICON" HREF="./icono.gif">
+    <head>
+      <title>Young Scientist Symposium - 2021</title>
+      <link rel="stylesheet" type="text/css" href="hoja_estilos.css" />
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+      <meta name="generator" content="Bluefish 1.0.7"/>
+    </head>
+
+    <body>
+      <div class="cabecera">
+	<big></big>
+      </div>
+
+      <div id="menuleft">
+	<ul>
+	  <li><a href="./index.html">Home</a> </li>
+	  <li><a href="./sc_program.html">Program</a></li>
+	  <li><a href="./registration.html">Registration</a> </li>
+	  <li><a href="./participants.html">Speakers</a></li>
+	  <li><a href="./organizers.html">Organizers</a></li>
+	  <li><a href="./contact.html">Contact</a></li>
+	</ul>
+      </div>
+      
+      
+<div class="central">
+
+<h2><font face="Arial,Helvetica" color="black">Registration and Abstract submission</h2>
+
+      <br>
+	<br>
+<b>The registration will be open soon!</b> 
+<br>
+  <br>
+  <b>Your contribution is welcome. Submit it today!</b>
+  <br>
+  <br>
+  The authors are asked to send a Word document or LaTeX file containing the abstract to <b>jomiste@ucm.es</b>. Some of the submitted contributions will be invited to be presented as oral presentations.
+  <br>
+    <br>  
+  The e-mail should specify whether you wish to contribute an oral communication or/and a poster.
+    <br>  
+<br>
+In order to prepare the abstracts, the document should be generated using one of the attached template files, in the Word or LaTeX format. The template files can be downloaded from this web page. We kindly request that the authors follow the provided templates.
+<br>
+<br>    
+<center>
+<a href="./files/template_abstract_yss_2021.docx" target="_blank"><img src="imagenes/logo_word.jpg" height="50" width="50" align="middle"></a>
+<a href="./files/template_abstract_yss_2021.zip" target="_blank"><img src="imagenes/logo-tex.png" height="50" width="50" align="middle"></a>
+</center>
+<br>
+
+<br/>
+<br/>
+
+
+<div class="faldon">
+  <big></big>
+</div>
+
+</div>
+
+</body>
+</html>
