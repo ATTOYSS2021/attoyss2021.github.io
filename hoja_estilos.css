@@ -12,7 +12,7 @@ h3 {color: #009668;
 
 
 	  
-.cabecera {height: 300px;
+.cabecera {height: 200px;
 	   width: 490px;	   
 	   background-image: url('./Logo-AttoChem_v8.jpg');
 	   background-size : 500px;
@@ -28,7 +28,7 @@ h3 {color: #009668;
 	  border-width:5px;
 	  border-style:solid;}
 
-.faldon {height: 300px;
+.faldon {height: 220px;
 	   width: 490px;	   
 	   background-image: url('./COST_EU.png');
 	   background-size : 500px;
